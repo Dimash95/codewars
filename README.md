@@ -1,3 +1,3 @@
-function greet(){
-  return "hello world!"
-}
+(＃￣0￣)
+
+(─‿‿─)♡
