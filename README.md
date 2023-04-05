@@ -1,1 +1,3 @@
-# codewars
+function greet(){
+  return "hello world!"
+}
