@@ -1,1 +1,0 @@
-const stringToNumber = (str) => +str;
